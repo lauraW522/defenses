@@ -10,7 +10,7 @@ This is a new project to create a public, stand-alone defense system for Lustern
 
 ## Commands
 
-The commands can be viewed with 'defense commands' along with a brief description of what each alias does.
+The commands can be viewed in-game with 'defense commands' along with a brief description of what each alias does.
 
 ```
 def                                       Displays a list of enabled defenses which are [x]active and [ ]inactive.
