@@ -12,7 +12,7 @@ This is a new project to create a public, stand-alone defense system for Lustern
 
 The commands can be viewed with 'defense commands' along with a brief description of what each alias does.
 
-> def                                       *Displays a list of enabled defenses which are [x]active and [ ]inactive.*
+def                                       *Displays a list of enabled defenses which are [x]active and [ ]inactive.*
 defup                                     *Will set defenses marked 'all', that are not assigned to an initial set.*
 defup combat                              *Will set defenses that are part of the initial 'combat' set.*
 defup hunting                             *Will set defenses that are part of the initial 'hunting' set.*
@@ -21,7 +21,7 @@ defup influence                           *Will set defenses that are part of th
 defense disable <defense>                 *This defense will not be set or displayed.*
 defense enable <defense>                  *This defense will be set and displayed normally.*
 defense initial <defense> <initial set>   *Change the conditions for when a defense will be set(all, combat, hunting, influence).*
-> defense auto <defense> <true/false>       *Change whether a defense will be automatically upkept.*
+defense auto <defense> <true/false>       *Change whether a defense will be automatically upkept.*
 
 Be careful with changing enable/disable/initial/auto, especially auto. None of the defenses that require equilibrium or balance are upkept automatically by default. 
 
