@@ -25,7 +25,7 @@ defense initial <defense> <initial set>   Change the conditions for when a defen
 defense auto <defense> <true/false>       Change whether a defense will be automatically upkept.
 ```
 
-Be careful with changing enable/disable/initial/auto, especially auto. None of the defenses that require equilibrium or balance are upkept automatically by default. 
+Be careful with changing enable/disable/initial/auto, especially auto. None of the defenses that require equilibrium or balance are upkept automatically by default. These changes are permanent (though they can be changed again) and the default values are not saved. If you forget the defaults or break something, you may have to download a new file!
 
 ## Goals
 
