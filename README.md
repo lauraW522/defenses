@@ -14,6 +14,7 @@ The commands can be viewed in-game with 'defense commands' along with a brief de
 
 ```
 def                                       Displays a list of enabled defenses which are [x]active and [ ]inactive.
+def pref                                  Displays a list of defenses upkept automatically, and changes made to enable,disable,auto,initial
 defup                                     Will set defenses marked 'all', that are not assigned to an initial set.
 defup combat                              Will set defenses that are part of the initial 'combat' set.
 defup hunting                             Will set defenses that are part of the initial 'hunting' set.
